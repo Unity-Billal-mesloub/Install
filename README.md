@@ -1,6 +1,6 @@
 # Scoop (un)installer
 
-[![ci-badge](https://github.com/ScoopInstaller/Install/actions/workflows/ci.yml/badge.svg)](https://github.com/ScoopInstaller/Install/actions/workflows/ci.yml)
+[![ci-badge](https://github.com/Unity-Billal-mesloub/Install/actions/workflows/ci.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/Install/actions/workflows/ci.yml)
 
 ## Installation
 
